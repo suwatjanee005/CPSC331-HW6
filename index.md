@@ -48,30 +48,31 @@ Line : Fafearn89.
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_03.php" class="button">pyramid03</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_04.php" class="button">pyramid04</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_05.php" class="button">pyramid05</a>
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_06.php" class="button">pyramid06</a>
 
+<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_06.php" class="button">pyramid06</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_07.php" class="button">pyramid07</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_08.php" class="button">pyramid08</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_09.php" class="button">pyramid09</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_10.php" class="button">pyramid10</a>
+
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_11.php" class="button">pyramid11</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_12.php" class="button">pyramid12</a>
-
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_13.php" class="button">pyramid13</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_14.php" class="button">pyramid14</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_15.php" class="button">pyramid15</a>
+
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_16.php" class="button">pyramid16</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_17.php" class="button">pyramid17</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_18.php" class="button">pyramid18</a>
-
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_19.php" class="button">pyramid19</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_20.php" class="button">pyramid20</a>
+
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_21.php" class="button">pyramid21</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_22.php" class="button">pyramid22</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_23.php" class="button">pyramid23</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_24.php" class="button">pyramid24</a>
-
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_25.php" class="button">pyramid25</a>
+
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_26.php" class="button">pyramid26</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_27.php" class="button">pyramid27</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_28.php" class="button">pyramid28</a>
@@ -83,6 +84,7 @@ Line : Fafearn89.
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_33.php" class="button">pyramid33</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_34.php" class="button">pyramid34</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_35.php" class="button">pyramid35</a>
+
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_36.php" class="button">pyramid36</a>
 
 
