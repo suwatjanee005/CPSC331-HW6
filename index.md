@@ -6,7 +6,7 @@
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
-  <img src="100929.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
+  <center><img src="100929.jpg" class="w3-round-xxlarge" w3-center style="width:50%"></center>
 </div>
 </body>
 </html>
