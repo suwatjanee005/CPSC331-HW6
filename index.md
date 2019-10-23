@@ -82,7 +82,9 @@ Line : Fafearn89.
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_36.php" class="button">pyramid36</a>
 
 
-### Pree web host [000webhost](https://fafearn89.000webhostapp.com/fearn_36.php) // [infinity](Myfearn89.epizy.com)
+### Free web host 
+<br>[000webhost](https://fafearn89.000webhostapp.com/fearn_36.php) 
+<br>[infinity](Myfearn89.epizy.com)
 
 
 ### [Nortwind .io](https://github.com/suwatjanee005/nortwind_DB) 
