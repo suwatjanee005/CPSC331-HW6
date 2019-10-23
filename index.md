@@ -88,7 +88,7 @@ Line : Fafearn89.
 
 ### Free web host 
 [000webhost](https://fafearn89.000webhostapp.com/) 
-<br>[infinity](Myfearn89.epizy.com)
+<br>[infinity](https://Myfearn89.epizy.com)
 
 
 ### [ข้อมูลจาก 8 ตาราง](https://github.com/suwatjanee005/nortwind_DB) 
