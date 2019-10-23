@@ -12,7 +12,7 @@
 </html>
 
 
-## Welcome to Profile Pages
+## Welcome To My Profile
 
 ชื่อ-สกุล : นางสาว สุวัจนีย์ ปัญญาภู
 
